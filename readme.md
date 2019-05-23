@@ -1,3 +1,10 @@
+
+To run the application: 
+1. npm i on the command line prompt to install all dependencies
+2. In the command line - type nodemon index.js to start the app if you have nodemon installed or type node index.js to start the app and navigate to localhost:3000
+
+
+
 # Assignment
 
 ## Objectives
